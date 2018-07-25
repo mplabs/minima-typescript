@@ -1,3 +1,3 @@
-# RxJS + Typescript Minimal Setup
+# Typescript Minimal Setup
 
-This is a minimal imstall of a typescript RxJS setup.
+This is a minimal typescript setup.
